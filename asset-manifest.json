@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/tailwinduitest/static/css/main.96da07ee.css",
+    "main.js": "/tailwinduitest/static/js/main.88fe7b7c.js",
+    "static/media/hero1.jpg": "/tailwinduitest/static/media/hero1.9b7bcbba3663d63d9e7c.jpg",
+    "static/media/store-navigation.png": "/tailwinduitest/static/media/store-navigation.218239c458cc8ca47dc2.png",
+    "static/media/product-quickviews.png": "/tailwinduitest/static/media/product-quickviews.0f97cd98cb33907cc531.png",
+    "static/media/product-lists.png": "/tailwinduitest/static/media/product-lists.3d1e7285860ade49b17a.png",
+    "static/media/shopping-carts.png": "/tailwinduitest/static/media/shopping-carts.b0a16134f5782b56614c.png",
+    "static/media/category-filters.png": "/tailwinduitest/static/media/category-filters.40dc62d732948c32209e.png",
+    "static/media/promo-sections.png": "/tailwinduitest/static/media/promo-sections.a9d529da006277f8d6ca.png",
+    "static/media/incentives.png": "/tailwinduitest/static/media/incentives.78be773f8cf1c8690e9b.png",
+    "static/media/order-summaries.png": "/tailwinduitest/static/media/order-summaries.0fc32a39823d29214f3d.png",
+    "static/media/order-history.png": "/tailwinduitest/static/media/order-history.917b053e7dc96630bb16.png",
+    "static/media/product-overviews.png": "/tailwinduitest/static/media/product-overviews.811cf265084ef5c22ae5.png",
+    "static/media/reviews.png": "/tailwinduitest/static/media/reviews.75f652605085a65997aa.png",
+    "static/media/checkout-forms.png": "/tailwinduitest/static/media/checkout-forms.ad0866397fa2be99bc2d.png",
+    "index.html": "/tailwinduitest/index.html",
+    "main.96da07ee.css.map": "/tailwinduitest/static/css/main.96da07ee.css.map",
+    "main.88fe7b7c.js.map": "/tailwinduitest/static/js/main.88fe7b7c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.96da07ee.css",
+    "static/js/main.88fe7b7c.js"
+  ]
+}
